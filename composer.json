@@ -1,0 +1,16 @@
+{
+  "name": "ld-web/su-2023-php-rappel-poo",
+  "description": "Sciences-U OOP Reminder",
+  "authors": [
+    {
+      "name": "Lucas Delobelle",
+      "email": "lucas@ld-web.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
